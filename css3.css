@@ -1,0 +1,97 @@
+
+.monday{
+    display: flex;
+    position: fixed;
+    top: 70%;
+    background-color: greenyellow;
+    border: 10px solid red;
+    padding-right: 100px;
+    box-shadow:5px 5px blueviolet;
+     margin-left: 30rem;
+    margin-right: 30rem;
+    border-radius: 20px;
+    color:red; 
+    text-shadow: 2px 20x blueviolet;
+}.Welcome{
+    display: inline-block;
+    background-color: white;
+    border-style: solid;
+    border:10%;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: red;
+    padding: 10px 60px 10px 60px;
+    margin-left:40%;
+    box-shadow: 5px 5px blueviolet;
+    color: blueviolet;
+}
+.flex1{
+    display: flex;
+    border:10px solid green;
+    padding-right:80rem;
+    padding-bottom: 25rem;
+}
+.flex-item{
+    background-color: white;
+    border-style: solid;
+    border:10%;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: red;
+    padding: 10px 30px 10px 30px;
+    margin-left:40%;
+    box-shadow: 5px 5px blueviolet;
+    text-shadow: 1px 1px blueviolet;
+    color: blueviolet;
+    margin-left: 0px;
+}
+button{
+    background-color: red;
+    border-radius: 10px;
+}
+.display-box{
+    background-color: green;
+    border: 10px solid rgb(5, 57, 70);
+    border-radius: 10px;
+    height: 700px;
+    width: 60%;
+    text-align: center;
+    margin-left:15%;
+}
+.store{
+    color: navy;
+    font-weight: bolder;
+    font-family: Verdana;
+    height: 90px;
+    text-align: center;
+}
+ .flex{
+        display: flex;
+}
+.fruit{
+    background-color: bisque;
+    border: 10px solid gray;
+    height: 250px;
+    text-align: center;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.vegitable{
+    background-color: bisque;
+    border: 10px solid gray;
+    height: 250px;
+    text-align: center;
+    margin: 10px;
+    padding-right: 10px;
+    padding-left: 30px;
+}
+.other{
+    background-color: bisque;
+    border: 10px solid gray;
+    height: 280px;
+    text-align: center;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
